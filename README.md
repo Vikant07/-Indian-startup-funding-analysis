@@ -72,4 +72,4 @@ The findings describe disclosed funding in the supplied dataset and should not b
 ## Author
 
 **Vikant Kumar**  
-Data Analyst Portfolio Project
+Data Analyst Project
